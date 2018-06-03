@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: Cape
+Build-Jdk: 1.8.0_25
+Extension-Name: fir-plugin
+Implementation-Title: fir-plugin
+Implementation-Version: 1.0-SNAPSHOT
+Group-Id: org.jenkins-ci.plugins
+Short-Name: fir-plugin
+Long-Name: fir-plugin
+Url: http://jenkins-ci.org/plugin/fir-plugin/
+Plugin-Version: 1.0-SNAPSHOT (private-11/13/2015 18:56-Cape)
+Hudson-Version: 1.586
+Jenkins-Version: 1.586
+Plugin-Dependencies: promoted-builds:2.4;resolution:=optional
+Plugin-Developers: 
+
